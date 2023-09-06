@@ -1,22 +1,22 @@
 
 <h1 align="center">Hi , I'm VISHNU <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=web+designer;Software+Developer;Deep+Learner;DS%20|%20AI%20|%20TECH%20Enthusiast;GAMER;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=web+designer;Software+Developer;Deep+Learner;%20|%20AI%20|%20TECH%20Enthusiast;GAMER;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 <hr/>
-<h4 align="center">I am a Senior at FAST-NUCES Islamabad, Pakistan. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center"> I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="HxnDev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HxnDev&theme=algolia" alt="HxnDev"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu1100&theme=algolia" alt="vishnu1100"  /></p>
 
 ## 💻 GitHub Profile Stats:
 
   <br/>
   <p align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hxn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HxnDev&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+	<a href="https://github.com/vishnu1100/github-readme-stats"><img alt="Hxn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishnu1100&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HxnDev&show_icons=true&locale=en&layout=compact&theme=algolia" alt="HxnDev" height="192px"/>
