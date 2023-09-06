@@ -50,6 +50,10 @@
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
   &emsp;
+  <a href="https://www.git-scm.com/">
+    <img alt="Git" src="https://img.shields.io/badge/git-%23563D7C.svg?style=flat&logo=git&logoColor=yellow"/>
+  </a>
+  
 
 ### 👉 Frontend Development
 <p align="left"> 
@@ -75,8 +79,7 @@
     <a href="https://www.github.com"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
   &emsp;
    &emsp;
- <a href="https://www.github.com"><img alt="GitHub" src=" https://img.shields.io/badge/git-%23563D7C.svg?style=flat&logo=git&logoColor=yellow"></a>
-
+ 
 
   
  </p>
