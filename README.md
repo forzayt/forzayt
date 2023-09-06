@@ -55,7 +55,7 @@
   </a>
   &emsp;
   <a href="https://www.javascript.com/">
-    <img alt="Git" src="https://img.shields.io/badge/javascript-%23563D7y.svg?style=flat&logo=javascript&logoColor=yellow"/>
+    <img alt="Git" src="https://img.shields.io/badge/javascript-%23563D7y.svg?style=flat&logo=javascript&logoColor=red"/>
   </a>
   
 
