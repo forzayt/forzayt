@@ -49,6 +49,10 @@
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
+	&emsp;
+  <a href="https://www.perl.org/">
+    <img alt="perl" src="https://img.shields.io/badge/Perl-%23E34F26.svg?style=flat&logo=mariadb&logoColor=blue"/>
+  </a>
   &emsp;
   <a href="https://www.git-scm.com/">
     <img alt="Git" src="https://img.shields.io/badge/git-%23563D7C.svg?style=flat&logo=git&logoColor=yellow"/>
