@@ -53,6 +53,10 @@
   <a href="https://www.git-scm.com/">
     <img alt="Git" src="https://img.shields.io/badge/git-%23563D7C.svg?style=flat&logo=git&logoColor=yellow"/>
   </a>
+  &emsp;
+  <a href="https://www.javascript.com/">
+    <img alt="Git" src="https://img.shields.io/badge/javascript-%23563D7C.svg?style=flat&logo=javascript&logoColor=yellow"/>
+  </a>
   
 
 ### 👉 Frontend Development
@@ -68,6 +72,10 @@
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  </a>
+	&emsp;
+  <a href="https://www.javascript.com/">
+    <img alt="Git" src="https://img.shields.io/badge/javascript-%23563D7C.svg?style=flat&logo=javascript&logoColor=yellow"/>
   </a>
 </p>
 
