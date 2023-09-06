@@ -51,10 +51,6 @@
   </a>
   &emsp;
 
-  <a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a>
-  
-</p>
-
 ### 👉 Frontend Development
 <p align="left"> 
   &emsp; 
@@ -79,7 +75,10 @@
     <a href="https://www.github.com"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
   &emsp;
    &emsp;
-   
+ <a href="https://www.github.com"><img alt="GitHub" src=" https://img.shields.io/badge/git-%23563D7C.svg?style=flat&logo=git&logoColor=yellow"></a>
+
+
+  
  </p>
  
  
