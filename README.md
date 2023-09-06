@@ -92,7 +92,8 @@
     <a href="https://www.github.com"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
   &emsp;
    &emsp;
- 
+  <a href="https://www.mariadb.org"><img alt="mariadb.org" src="https://img.shields.io/badge/Mariadb-%23563D7b.svg?style=flat&logo=mariadb&logoColor=blue"></a>
+  
 
   
  </p>
