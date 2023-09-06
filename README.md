@@ -77,6 +77,11 @@
   <a href="https://www.javascript.com/">
     <img alt="Git" src="https://img.shields.io/badge/javascript-%23563D7C.svg?style=flat&logo=javascript&logoColor=yellow"/>
   </a>
+
+ &emsp;
+  <a href="https://www.react.dev/">
+    <img alt="Git" src="https://img.shields.io/badge/React-%23563D7C.svg?style=flat&logo=react&logoColor=blue"/>
+  </a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
