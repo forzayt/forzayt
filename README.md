@@ -89,7 +89,6 @@
   <a href="https://www.javascript.com/">
     <img alt="Git" src="https://img.shields.io/badge/javascript-%23563D7y.svg?style=flat&logo=javascript&logoColor=red"/>
   </a>
-
  &emsp;
   <a href="https://www.react.dev/">
     <img alt="Git" src="https://img.shields.io/badge/React-%23563D7b.svg?style=flat&logo=react&logoColor=blue"/>
@@ -113,9 +112,6 @@
   &emsp;
    &emsp;
   <a href="https://www.mariadb.org"><img alt="mariadb.org" src="https://img.shields.io/badge/Mariadb-%23563D7b.svg?style=flat&logo=mariadb&logoColor=blue"></a>
-  
-
-  
  </p>
  
  
