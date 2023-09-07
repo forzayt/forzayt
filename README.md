@@ -61,6 +61,14 @@
   <a href="https://www.javascript.com/">
     <img alt="Git" src="https://img.shields.io/badge/javascript-%23563D7y.svg?style=flat&logo=javascript&logoColor=red"/>
   </a>
+
+&emsp;
+  <a href="https://www.jquery.com/">
+    <img alt="Git" src="https://img.shields.io/badge/Jquery-%2300f.svg?style=flat&logo=jquery&logoColor=white"/>
+  </a>
+
+
+ 
   &emsp;
   <a href="https://www.apache.org/">
     <img alt="Git" src="https://img.shields.io/badge/Apache-%232370ED.svg?style=flat&logo=apache&logoColor=white"/>
