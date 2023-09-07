@@ -92,9 +92,13 @@
   </a>
 </p>
 
-### 👉 Frontend Development
-
-
+### 👉 Backend Frameworks
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.djangoproject.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/Django-%232370Eg.svg?style=flat&logo=django&logoColor=white">
+  </a> 
+</p>
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
