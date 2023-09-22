@@ -71,7 +71,7 @@
   </a>
   
 
-### 👉 Frontend Development
+### 👉 Frontend Tech
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
