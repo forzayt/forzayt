@@ -98,7 +98,6 @@
   <a href="https://www.djangoproject.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/Django-%232370Eg.svg?style=flat&logo=django&logoColor=white">
   </a> 
-
  &emsp;
   <a href="https://www.react.dev/">
     <img alt="Git" src="https://img.shields.io/badge/React-%23563D7b.svg?style=flat&logo=react&logoColor=blue"/>
