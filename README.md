@@ -114,7 +114,8 @@
    &emsp;
   <a href="https://www.mariadb.org"><img alt="mariadb.org" src="https://img.shields.io/badge/Mariadb-%23563D7b.svg?style=flat&logo=mariadb&logoColor=blue"></a>
 	&emsp;
-    <a href="https://www.aws.com"><img alt="aws" src=" https://img.shields.io/badge/aws-%23563D7b.svg?style=flat&logo=amazon&logoColor=yellow"></a>
+	&emsp;
+  <a href="https://www.aws.com"><img alt="aws" src="https://img.shields.io/badge/aws-%23563D7b.svg?style=flat&logo=amazon&logoColor=yellow"></a>
 	&emsp;
  </p>
  
