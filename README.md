@@ -133,7 +133,7 @@ class Languages:
  
  
 
-## 📫 Contact Me: 
+## 📫 Contact Me::
 <p align="center">
   <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:vishnusanthoshvr@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
