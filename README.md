@@ -7,10 +7,10 @@
 <hr/>
 <h4 align="center"> I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vishnu1100&label=Profile%20views&color=0e75b6&style=plastic" alt="" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=forzayt&label=Profile%20views&color=0e75b6&style=plastic" alt="" /> </p>
 
 ### `~# head language.py`
-<a href="#"><img align="right" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu1100&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6"></a>
+<a href="#"><img align="right" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=forzayt&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6"></a>
 
 ```python
 class Languages:
@@ -24,7 +24,7 @@ class Languages:
 
   <br/>
   <p align="center">
-	<a href="https://github.com/vishnu1100/github-readme-stats"><img alt="Hxn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishnu1100&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+	<a href="https://github.com/forzayt/github-readme-stats"><img alt="Hxn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=forzayt&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HxnDev&show_icons=true&locale=en&layout=compact&theme=algolia" alt="HxnDev" height="192px"/>
@@ -137,7 +137,7 @@ class Languages:
 <p align="center">
   <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:vishnusanthoshvr@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/vishnu1100"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/forzayt"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	
@@ -148,8 +148,8 @@ class Languages:
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnu1100/vishnu1100/refs/heads/main/contrib-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishnu1100/vishnu1100/refs/heads/main/contrib-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vishnu1100/vishnu1100/refs/heads/main/contrib-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/forzayt/forzayt/refs/heads/main/contrib-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/forzayt/forzayt/refs/heads/main/contrib-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/forzayt/forzayt/refs/heads/main/contrib-snake-dark.svg">
 </picture>
 </div>
