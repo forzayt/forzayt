@@ -131,8 +131,8 @@ class Languages:
 	&emsp;
  </p>
  
- 
-```
+ <!--
+
 ## 📫 Contact Me::
 <p align="center">
   <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
@@ -143,8 +143,8 @@ class Languages:
 	
 </p>
 
-```
-```
+
+
 
 <div align="center">
 <picture>
@@ -153,4 +153,5 @@ class Languages:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/forzayt/forzayt/refs/heads/main/contrib-snake-dark.svg">
 </picture>
 </div>
-```
+
+-->
